@@ -1,4 +1,4 @@
-# Block Blast Web
+# block blast web
 
-**Block Blast Web** is an open-source, free-to-play video game.  
-Please note: this is a fan-made game and not the official *Block Blast*.
+**block blast web** is an open-source, f2p video game.  
+please note: this is a fan-made game and not the official *block blast* by hungry studios.
